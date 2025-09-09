@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Felix Wu Feng
+- **CCID:** fwufeng
 
 ## References and Resources
 
